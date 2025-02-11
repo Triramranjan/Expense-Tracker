@@ -1,9 +1,5 @@
 # Expense-Tracker
-<h1 align="center">FAMILY EXPENSE TRACKER 🏦</h1>
-<p align="center">
-    <a href="https://github.com/SVijayB/PyHub"><img src="assets/logo-hacktober.svg" alt="Logo" border="0"></a><br>
-    <a href="https://github.com/SVijayB/PyHub"><img src="assets/pyLogo.png" alt="Logo" border="0"></a>
-</p>
+<h1 align="center">EXPENSE TRACKER 🏦</h1>
 
 <div align="center">
 
